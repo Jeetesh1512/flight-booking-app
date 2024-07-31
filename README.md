@@ -22,6 +22,8 @@ MERN flight booking app
   **Installation and Usage:**
 
   ->  Clone the repository\
+  ->  Connect your mongo db to the express by putting your own mongo db string\
+  ->  Add the data of your own choice into the database using insomnia or postman\
   ->  Run npm start in the api directory\
   ->  In the client interface directory --\
   ->  Run `npm i`\
