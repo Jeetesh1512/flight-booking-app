@@ -1,0 +1,17 @@
+.seat {
+    width: 30px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: lightgray;
+    border: 1px solid #ddd;
+    margin: 0 5px;
+    cursor: pointer;
+  }
+  
+  .seat.selected {
+    background-color: #4caf50;
+    color: white;
+  }
+  
